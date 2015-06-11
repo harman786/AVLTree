@@ -1,8 +1,8 @@
 /*
 *	AVL tree, generic, can be modified for implementing std::map
 *	Date Created - 22/02/2015
-*	Date Modified- 24/02/2015
-*	Author - Harmandeep Singh (harmandeep3091, @gmail.com)
+*	Date Modified- 12/06/2015
+*	Author - Harmandeep Singh (harmandeep3091@gmail.com)
 *	Please report bugs at the above mentioned emailid, Thanks :)
 */
 
