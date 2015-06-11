@@ -3,7 +3,7 @@
 *	Date Created - 22/02/2015
 *	Date Modified- 12/06/2015
 *	Author - Harmandeep Singh (harmandeep3091@gmail.com, harman786@yahoo.co.in)
-*	Please report bugs at the above mentioned emailid, Thanks
+*	Please report bugs at the above mentioned emailid, Thanks :)
 
 TODO List-
 1) Change couts
